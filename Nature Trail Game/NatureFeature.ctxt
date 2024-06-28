@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=NatureFeature
+comment0.text=\r\n\ This\ class\ contains\ nature\ features\ and\ has\ fields\ for\ specifying\ type\ of\ feature\ ,position\ of\ feature\ on\ the\ trail\ and\ space\ penalty\ associated\ with\ \r\n\ it.\r\n\ @Trilochan\ Yadav\ (ID\ -\ 30379660)\r\n\ @1.0\ (17.04.2019)\r\n
+comment1.params=
+comment1.target=NatureFeature()
+comment2.params=newPosition\ newFeature\ newPenalty
+comment2.target=NatureFeature(int,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=int\ getFeaturePosition()
+comment4.params=
+comment4.target=java.lang.String\ getFeatureType()
+comment5.params=
+comment5.target=int\ getSpacePenalty()
+comment6.params=newType
+comment6.target=void\ setFeatureType(java.lang.String)
+comment7.params=newPosition
+comment7.target=void\ setFeaturePosition(int)
+comment8.params=newPenalty
+comment8.target=void\ setSpacePenalty(int)
+numComments=9

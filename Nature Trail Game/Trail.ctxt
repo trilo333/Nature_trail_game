@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Trail
+comment0.text=\r\n\ Trail\ class\ contains\ a\ array\ of\ naturefeature\ class\ objects\ and\ is\ used\ to\ store\ and\ change\ values\ of\ the\ various\ nature\ features\ on\ the\ trail.\r\n\ Here\ we\ define\ four\ features\ like\ Creek,Bridge,Fallen\ Tree\ and\ Landslide\ and\ penalties\ associated\ with\ them.\r\n\ Initial\ positions\ of\ all\ these\ features\ is\ 1\ but\ is\ randomly\ assigned\ along\ the\ trail\ when\ the\ game\ is\ started\ through\ startGame\ method\ in\ Game\ class\r\n\ @Trilochan\ Yadav\ (ID\ -\ 30379660)\r\n\ @1.0\ (17.04.2019)\r\n
+comment1.params=
+comment1.target=Trail()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Trail\r\n
+comment2.params=index
+comment2.target=int\ getFeaturePosition(int)
+comment3.params=index
+comment3.target=java.lang.String\ getFeatureType(int)
+comment4.params=index
+comment4.target=int\ getSpacePenalty(int)
+comment5.params=
+comment5.target=NatureFeature[]\ getTrail()
+comment6.params=index\ newFeaturePosition
+comment6.target=void\ setFeaturePosition(int,\ int)
+comment7.params=index\ newType
+comment7.target=void\ setFeatureType(int,\ java.lang.String)
+comment8.params=index\ newPenalty
+comment8.target=void\ setSpacePenalty(int,\ int)
+numComments=9

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Dice
+comment0.text=\r\n\ Dice\ class\ generates\ a\ random\ number\ between\ min\ and\ max\ value\ for\ the\ dice\ roll.\r\n\r\n\ @Trilochan\ Yadav\ (ID\ -\ 30379660)\r\n\ @1.0\ (17.04.2019)\r\n\ \r\n
+comment1.params=
+comment1.target=Dice()
+comment2.params=newMin\ newMax
+comment2.target=Dice(int,\ int)
+comment3.params=
+comment3.target=int\ getMaximumValue()
+comment4.params=
+comment4.target=int\ getMinimumValue()
+comment5.params=
+comment5.target=int\ randomNumberGenerator()
+comment6.params=newMaximum
+comment6.target=void\ setMaximumValue(int)
+comment7.params=newMinimum
+comment7.target=void\ setMinimumValue(int)
+numComments=8

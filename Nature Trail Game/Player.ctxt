@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Player\ class\ is\ used\ to\ store\ player\ details\ like\ player\ name,player\ position\ and\ their\ current\ score.It\ has\ accessor\ and\ mutator\ methods\ to\ get\ and\ set\r\n\ these\ values.Player\ score\ can\ be\ negative\ or\ positive.Player\ position\ can\ not\ be\ negative\ and\ must\ be\ between\ 1\ and\ maximum\ length\ of\ the\ trail.\r\n\ Player\ name\ is\ by\ default\ Computer\ Rocky\ as\ one\ player\ Computer\ for\ our\ Nature\ Trail\ game.\r\n\r\n\ @Trilochan\ Yadav\ (ID\ -\ 30379660)\r\n\ @1.0\ (17.04.2019)\r\n
+comment1.params=
+comment1.target=Player()
+comment2.params=newName\ newPosition\ newScore
+comment2.target=Player(java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=void\ displayPlayer()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=int\ getPosition()
+comment6.params=
+comment6.target=int\ getScore()
+comment7.params=newName
+comment7.target=void\ setName(java.lang.String)
+comment8.params=newPosition\ max
+comment8.target=void\ setPosition(int,\ int)
+comment9.params=newScore
+comment9.target=void\ setScore(int)
+numComments=10
